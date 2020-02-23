@@ -69,6 +69,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_modular:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "6ac989237a08d7f6b871d4aa179ebc9dea4b2a88"
+      url: "https://github.com/Flutterando/modular"
+    source: git
+    version: "0.5.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter
